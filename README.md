@@ -1,6 +1,17 @@
 # Sonic-like Game
 This is a basic Sonic the Hedgehog clone made with C# and WinForm. The player controls a hedgehog that must dodge fireballs and shoot enemy to progress through the level.
 
+<div align="center">
+  <img src="https://github.com/LuizMorato/sonic-game-csharp/assets/109006053/1af49cdc-f6f6-41c7-b56e-583f7294b05a">
+  
+  Main Menu
+
+
+  <img src="https://github.com/LuizMorato/sonic-game-csharp/assets/109006053/40f09765-3dc5-4aeb-8d15-edbd6ffd3199">
+
+  Gameplay screenshot (character 1 = player, character 2 = enemy)
+</div>
+
 # Gameplay 🕹️
 The player starts the game at the beginning of the level. The goal is to reach the end of the level without being hit by fireballs.
 
