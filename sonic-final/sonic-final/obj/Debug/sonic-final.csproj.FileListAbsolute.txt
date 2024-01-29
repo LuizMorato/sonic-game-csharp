@@ -1,0 +1,16 @@
+U:\Desenvolvimento de Sistemas\Técnicas de Programação e Algoritmos\Testes\sonic-final\sonic-final\obj\Debug\sonic-final.csprojResolveAssemblyReference.cache
+U:\Desenvolvimento de Sistemas\Técnicas de Programação e Algoritmos\Testes\sonic-final\sonic-final\obj\Debug\sonic_final.MainForm.resources
+U:\Desenvolvimento de Sistemas\Técnicas de Programação e Algoritmos\Testes\sonic-final\sonic-final\obj\Debug\sonic-final.csproj.GenerateResource.Cache
+U:\Desenvolvimento de Sistemas\Técnicas de Programação e Algoritmos\Testes\sonic-final\sonic-final\bin\Debug\sonic-final.exe.config
+U:\Desenvolvimento de Sistemas\Técnicas de Programação e Algoritmos\Testes\sonic-final\sonic-final\bin\Debug\sonic-final.exe
+U:\Desenvolvimento de Sistemas\Técnicas de Programação e Algoritmos\Testes\sonic-final\sonic-final\bin\Debug\sonic-final.pdb
+U:\Desenvolvimento de Sistemas\Técnicas de Programação e Algoritmos\Testes\sonic-final\sonic-final\obj\Debug\sonic-final.exe
+U:\Desenvolvimento de Sistemas\Técnicas de Programação e Algoritmos\Testes\sonic-final\sonic-final\obj\Debug\sonic-final.pdb
+C:\Users\luizi\Downloads\sonic-final\sonic-final\sonic-final\bin\Debug\sonic-final.exe.config
+C:\Users\luizi\Downloads\sonic-final\sonic-final\sonic-final\bin\Debug\sonic-final.exe
+C:\Users\luizi\Downloads\sonic-final\sonic-final\sonic-final\bin\Debug\sonic-final.pdb
+C:\Users\luizi\Downloads\sonic-final\sonic-final\sonic-final\obj\Debug\sonic-final.csprojResolveAssemblyReference.cache
+C:\Users\luizi\Downloads\sonic-final\sonic-final\sonic-final\obj\Debug\sonic_final.MainForm.resources
+C:\Users\luizi\Downloads\sonic-final\sonic-final\sonic-final\obj\Debug\sonic-final.csproj.GenerateResource.Cache
+C:\Users\luizi\Downloads\sonic-final\sonic-final\sonic-final\obj\Debug\sonic-final.exe
+C:\Users\luizi\Downloads\sonic-final\sonic-final\sonic-final\obj\Debug\sonic-final.pdb
